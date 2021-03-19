@@ -5,7 +5,7 @@ All the `list_*logs` calls are aliased to `list_logs`.
 
 Retrieve all logs or logs for a specific device.
 
-- id or hostname is the specific device
+- id or hostname of the specific device
 
 Input:
 
